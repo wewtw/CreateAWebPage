@@ -3,7 +3,8 @@ body{
 }
 
 aside{
-    display: inline-block;
+    display: block;
+    float: left;
     width: 25%;
     padding-left: 15px;
     margin-left: 15px;
