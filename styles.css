@@ -1,0 +1,16 @@
+body{
+    display: block;
+}
+
+aside{
+    display: inline-block;
+    width: 25%;
+    padding-left: 15px;
+    margin-left: 15px;
+    font-style: italic;
+    background-color: lightgray;
+}
+footer{
+    display: block;
+    background-color: aquamarine;
+}
